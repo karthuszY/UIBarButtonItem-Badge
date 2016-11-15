@@ -1,6 +1,6 @@
 # UIBarButtonItem-Badge
 Use runtime to add badge to UIBarButtonItem
-
+![img](https://github.com/Karthus1110/UIBarButtonItem-Badge/blob/master/Badge.png)
 [中文介绍](http://www.jianshu.com/p/d441b8ebf707)
 # How to use ?
 Just drop the “UIBarButtonItem+Badge” folder to your project,and add the code below:
